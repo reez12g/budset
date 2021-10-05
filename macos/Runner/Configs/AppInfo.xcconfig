@@ -8,7 +8,7 @@
 PRODUCT_NAME = budset
 
 // The application's bundle identifier
-PRODUCT_BUNDLE_IDENTIFIER = com.example.budset
+PRODUCT_BUNDLE_IDENTIFIER = com.reez12g.budset
 
 // The copyright displayed in application information
 PRODUCT_COPYRIGHT = Copyright © 2021 com.example. All rights reserved.
