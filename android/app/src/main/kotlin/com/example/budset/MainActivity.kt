@@ -1,4 +1,4 @@
-package com.example.budset
+package com.reez12g.budset
 
 import io.flutter.embedding.android.FlutterActivity
 
